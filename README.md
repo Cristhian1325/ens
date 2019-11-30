@@ -9,7 +9,8 @@ For documentation of the ENS system, see [docs.ens.domains](https://docs.ens.dom
 To run unit tests, clone this repository, and run:
 
     $ npm install
-    $ npm test
+    $ npm testsu
+
 
 # npm package
 
